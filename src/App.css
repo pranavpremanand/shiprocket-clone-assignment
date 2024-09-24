@@ -10,6 +10,15 @@ body {
   box-sizing: border-box;
 }
 
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #735AE5;
+  border-radius: 6px;
+}
+
 html {
   scroll-behavior: smooth;
   font-size: 90%;

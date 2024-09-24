@@ -335,7 +335,7 @@ function App() {
         </div>
       </section>
 
-      <section className="mt-5 w-full">
+      <section className="mt-5 mb-12 w-full">
           <div className="wrapper flex flex-col gap-5 sm:flex-row justify-between items-center">
             <div className="flex flex-col">
               <h2 className="text-[2rem] md:text-[3rem] w-fit bg-gradient-to-r from-[#5dfc8a] to-[#150dac] text-transparent bg-clip-text">

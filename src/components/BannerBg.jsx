@@ -1,6 +1,6 @@
 const BannerBg = () => {
   return (
-    <div className="min-h-[100vh] md:h-[110vh] relative w-full overflow-hidden bg-[#CDA2FC] mt-[5rem] md:-mt-24">
+    <div className="banner min-h-[100vh] md:h-[110vh] relative w-full overflow-hidden bg-[#CDA2FC] mt-[5rem] md:-mt-24">
       <div className="absolute inset-0 h-full w-full backdrop-blur-3xl z-10 bg-gradient-to-b from-[#ffffff] to-[#ffffffd5_100%] via-[#0000000f_30%] lg:via-[#ffffff_30%]"></div>
       <svg
         preserveAspectRatio="xMidYMid slice"

@@ -329,8 +329,8 @@ function App() {
               </div>
             </div>
           </div>
-          <div className="h-full hidden md:flex justify-center items-center rounded-2xl p-10 bg-gradient-to-br from-[#E2EAFD] via-[#D6FAD0] to-[#F8E5E8]">
-            <img src={images[currentStep]} className="object-contain" alt="" />
+          <div className="hidden md:flex justify-center items-center rounded-2xl p-10 bg-gradient-to-br from-[#E2EAFD] via-[#D6FAD0] to-[#F8E5E8]">
+            <img src={images[currentStep]} className="object-contain h-[30rem]" alt="" />
           </div>
         </div>
       </section>
